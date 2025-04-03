@@ -15,3 +15,5 @@ You will find my projects, my journey in the world of IT—if you love cybersecu
 I still have a lot to learn, but as a passionate person, I'm having fun, so I'm progressing fast!
 
 Python, Java, HTML/CSS, networks... We'll cover a bit of everything here.
+
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
